@@ -2,7 +2,7 @@
 
 ### Demo
 
-[Status Report Page](https://status-report-page.vercel.app/)
+[Status report page](https://business-online-status.vercel.app/)
 
 #### Business Example: {country: France, company: Gumbo Yaya, street: '3 Rue Charles Robin', zip: 75010}
 
