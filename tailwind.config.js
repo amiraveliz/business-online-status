@@ -5,11 +5,11 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                darkBlue: "#27435c",
-                blue: "#586067",
-                grayBlue: "#354758",
-                skyBlue: "#24a0e7",
-                ligthSkyBlue: "#f3f8fb",
+                darkBlue: "#595959",
+                blue: "#595959",
+                grayBlue: "#595959",
+                skyBlue: "#268EA6",
+                ligthSkyBlue: "#F2F2F2",
                 light: "#f3f3f3",
                 error: "#F1565D",
                 success: "#A0FCB8",

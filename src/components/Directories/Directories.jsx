@@ -5,7 +5,7 @@ function Directories() {
     return (
         <div>
             <h2 className="text-xl font-semibold my-8 text-darkBlue text-center mx-auto px-5 md:px-8">
-                Is your company listed accurately in these online directories?
+                Is your company listed in these online directories?
             </h2>
             <div className="flex justify-center max-w-5xl mx-auto pb-8">
                 {[

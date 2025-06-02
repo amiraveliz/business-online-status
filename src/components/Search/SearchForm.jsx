@@ -137,7 +137,7 @@ function SearchForm({ onSubmitForm, isLoading }) {
                         {isLoading ? (
                             <Loader className="animate-spin w-12 h-12" />
                         ) : (
-                            "CHECK NOW"
+                            "SEARCH NOW"
                         )}
                     </Button>
                 </div>

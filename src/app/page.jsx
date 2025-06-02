@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <>
             <h1 className="text-center leading-10 my-10 text-3xl font-semibold text-darkBlue px-5 md:px-8">
-                Company Presence Check
+                Business online presence check
             </h1>
             <Search />
             <Directories />
